@@ -1,0 +1,13 @@
+i {
+    font-size: 120px;
+    margin-right: 10px; 
+    margin-left: 10px;
+    color: red;
+}
+i:hover {
+    color: greenyellow;
+}
+.icons {
+    text-align: center;
+    margin-top: 350px;
+}
